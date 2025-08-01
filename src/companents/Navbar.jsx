@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 const Navbar = () => {
   return (
     <div>
-      <div className="flex items-center justify-between bg-gray-100 p-4 rounded-xl shadow-sm mt-[10px]">
+      <div className="flex items-center justify-between bg-gray-100 p-4 rounded-xl  mt-[10px]">
  
         <div className="flex items-center space-x-2">
           <img className="w-12 h-10 bg-gray-300 rounded-lg" src="/logo.jpg" alt="logo" />

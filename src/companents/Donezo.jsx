@@ -52,7 +52,7 @@ const Donezo = () => {
           </li>
 
           <li className="flex items-center space-x-3">
-            <div className="w-5 h-5 rounded-full"><img src="https://img.icons8.com/material-outlined/50/737373/exit.png" alt="" /></div> 
+            <div className="w-5 h-5 rounded-full"><img src="https://img.icons8.com/material-outlined/50/737373/exit.png" alt="Logout" /></div> 
             <span>Logout</span>
           </li>
         </ul>

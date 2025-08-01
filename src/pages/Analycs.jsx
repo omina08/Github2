@@ -26,7 +26,7 @@ const Analycs = () => {
       </div>
       </div>
 
-      {/* Reminders */}
+   
       <div className="rounded-xl p-4 bg-[#f0f0f0] w-[300px]">
         <h2 className="text-sm font-semibold mb-2">Reminders</h2>
         <p className="font-semibold text-lg leading-tight mb-1">Meeting with Arc <br /> Company</p>
@@ -34,7 +34,7 @@ const Analycs = () => {
         <button className="bg-green-700 hover:bg-white hover:text-black text-white w-full py-2 rounded-xl">🎥  Start Meeting</button>
       </div>
 
-      {/* Project List */}
+
       <div className="rounded-xl p-4 bg-[#f0f0f0] w-[300px]">
         <div className="flex justify-between items-center mb-3">
           <h2 className="text-sm font-semibold">Project</h2>

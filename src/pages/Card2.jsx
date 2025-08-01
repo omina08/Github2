@@ -18,7 +18,7 @@ const Card2 = () => {
           </div>
 
 
-          <div className='flex gap-4'>
+          <div className='flex gap-[16px]'>
             <img className='w-10' src="https://img.freepik.com/premium-vector/character-avatar-isolated_729149-194801.jpg" alt="" />
         <div>
         <span className="font-medium text-lg">Edwin Adenike </span>
