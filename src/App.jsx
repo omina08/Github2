@@ -23,7 +23,7 @@ const App = () => {
         <Analycs/>
       </div>
 
-      <div className='mt-[60px] flex gap-[30px] '>
+      <div className='mt-[60px] flex gap-[25px] '>
       <Card1/>
       <Card2/>
       <Static/>
